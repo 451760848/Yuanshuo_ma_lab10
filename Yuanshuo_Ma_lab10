@@ -95,11 +95,15 @@
  var grade3=document.getElementById('num3').value;
  var grade4=document.getElementById('num4').value;
  var grade5=document.getElementById('num5').value;
+
+
  var integer1=parseInt(grade1);
  var integer2=parseInt(grade2);
  var integer3=parseInt(grade3);
  var integer4=parseInt(grade4);
  var integer5=parseInt(grade5);
+
+
  var total;
  var ave=0;
  var arr = [integer1,integer2,integer3,integer4,integer5];
@@ -147,11 +151,15 @@
  var grade3=document.getElementById('num3').value;
  var grade4=document.getElementById('num4').value;
  var grade5=document.getElementById('num5').value;
+
+
  var integer1=parseInt(grade1);
  var integer2=parseInt(grade2);
  var integer3=parseInt(grade3);
  var integer4=parseInt(grade4);
  var integer5=parseInt(grade5);
+
+ 
  var total;
  var ave=0;
  var arr = [integer1,integer2,integer3,integer4,integer5];
